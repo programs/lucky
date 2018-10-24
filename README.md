@@ -1,2 +1,2 @@
-lucky
-=====
+#lucky
+Functions fo LiuHeCai
